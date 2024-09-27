@@ -24,3 +24,8 @@ This repository contains a pre-configured Docker-based environment designed for 
 6. (optional) php artisan key:generate if needed
 7. npm install command, followed by the command npm run build
 8.(optional) if needed run php artisan migrate
+
+
+##PLEASE NOTE
+
+{PROJECT_NAME} needs to be changed to your project_name
