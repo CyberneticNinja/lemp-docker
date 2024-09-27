@@ -27,5 +27,4 @@ This repository contains a pre-configured Docker-based environment designed for 
 
 
 ##PLEASE NOTE
-
 {PROJECT_NAME} needs to be changed to your project_name
